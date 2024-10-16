@@ -1,6 +1,5 @@
 ---
 title: "Coastal Boundary Layer 1"
-excerpt: "using WCS <br/><img src='/images/WCS_with_Ripples.jpg'>"
 collection: portfolio
 ---
 

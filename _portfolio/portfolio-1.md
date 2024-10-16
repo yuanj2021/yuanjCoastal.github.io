@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Coastal Boundary Layer 1"
+excerpt: "using WCS <br/><img src='/images/WCS_with_Ripples.jpg'>"
 collection: portfolio
 ---
 
